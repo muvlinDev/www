@@ -1,0 +1,14 @@
+.last-update {
+    font-size: 12px;
+    color: darkgray;
+}
+#header {
+    background-color: #4D6353;
+}
+h4 {
+    font-weight: bold;
+}
+.contenido {
+    padding: 4em;
+    text-align: justify;
+}
